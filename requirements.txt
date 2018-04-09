@@ -1,5 +1,6 @@
 click==6.7
 Django==1.11.12
+djangorestframework==3.8.2
 Pillow==5.1.0
 pyparsing==2.2.0
 pytz==2018.3
