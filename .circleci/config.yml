@@ -48,7 +48,7 @@ jobs:
           name: run tests
           command: |
             . venv/bin/activate
-            python lunisolar-api/manage.py test
+            python lunisolar_api/manage.py test
 
       - store_artifacts:
           path: test-reports
